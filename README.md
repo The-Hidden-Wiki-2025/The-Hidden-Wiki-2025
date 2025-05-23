@@ -42,12 +42,12 @@ Use directories like this one to discover  . onion websites categorized by purpo
 ## 📁 Categories & .onion Resources (Fictional for Educational Use)
 
 ### 🛒 Markets & Stores
-- NovaMarket → `http://novamarketabc23.onion`
+- Ares Market → `http://aresqoz4zfv7rov3jaj6mzjsard3ynsrmojnbtaov6ofedl4eii3drqd.onion`
 - CryptoBay → `http://cryptobayxyz55.onion`
 
 ### 💬 Forums & Communities
 - DeepForum → `http://deepforumxyz27.onion`
-- OnionBoard → `http://onionboardforum4.onion`
+- Tortube → `http://tortubek7wd4bklvei2jh2nu3kq42siipvogk4ajhsoegtmrbo6jgdad.onion`
 
 ### 🔐 Privacy Tools & Crypto
 - XPGP Tool → `http://xpgptoolvault7.onion`
