@@ -50,7 +50,7 @@ Use directories like this one to discover  . onion websites categorized by purpo
 - Tortube → `http://tortubek7wd4bklvei2jh2nu3kq42siipvogk4ajhsoegtmrbo6jgdad.onion`
 
 ### 🔐 Privacy Tools & Crypto
-- XPGP Tool → `http://xpgptoolvault7.onion`
+- Zyxtor Exchange-DEX (crypto arbitrage and mixer) → `http://zyxtorjq7zu2vauxisfevh5leg6d5y3xke7asonmtalfvtyjxgv5b4ad.onion)`
 - OnionVPN → `http://onionvpnsecure3.onion`
 
 ### 📰 News & Whistleblowing
